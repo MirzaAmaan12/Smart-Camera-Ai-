@@ -1,0 +1,8 @@
+Flask
+google-generativeai
+python-dotenv
+ffmpeg-python
+SpeechRecognition
+pyngrok
+flask-ngrok
+gunicorn
